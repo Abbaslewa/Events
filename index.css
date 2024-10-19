@@ -1,0 +1,20 @@
+body{
+    background-color: antiquewhite;
+}
+section {
+margin-left: 400px; 
+padding:10px;
+margin-top: 10px ;
+border-radius: 8px;
+}
+section input{
+padding: 10px;
+margin: 10px;
+border-radius: 10px;
+}
+section button{
+    background-color: blue;
+    color: white;
+   width: 200px;
+   border-radius: 10px;
+}

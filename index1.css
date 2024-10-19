@@ -1,0 +1,20 @@
+
+section{
+  
+    margin-left: 400px; 
+    padding:01px;
+    margin-top: 10px ;
+    border-radius: 8px;
+}
+section input{
+    height: 30px;
+    border-radius: 10px;
+}
+section button{
+    margin-top: 10px;
+    width: 175px;
+    color: white;
+    background-color: blue;
+    border-radius: 10px;
+
+}
